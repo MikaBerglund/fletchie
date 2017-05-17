@@ -3,6 +3,7 @@
     "outDir": "./wwwroot/js/build/",
     "module": "amd",
     "moduleResolution": "node",
+    "jsx": "react",
     "declaration": true,
     "declarationDir": "./wwwroot/js/build/typings/",
     "sourceMap": true,

@@ -9,5 +9,25 @@
       "renameLocals": true
     },
     "sourceMap": true
+  },
+  {
+    "inputFiles": [
+      "./node_modules/react/dist/react.js"
+    ],
+    "outputFileName": "./wwwroot/js/build/react.js",
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  },
+  {
+    "inputFiles": [
+      "./node_modules/react/dist/react-dom.js"
+    ],
+    "outputFileName": "./wwwroot/js/build/react-dom.js",
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
   }
 ]
