@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/MikaBerglund/fletchie/issues"
   },
-  "homepage": "https://github.com/MikaBerglund/fletchie#readme"
+  "homepage": "https://github.com/MikaBerglund/fletchie#readme",
+  "dependencies": {
+    "requirejs": "^2.3.3"
+  }
 }

@@ -1,0 +1,13 @@
+﻿[
+  {
+    "inputFiles": [
+      "./node_modules/requirejs/require.js"
+    ],
+    "outputFileName": "./wwwroot/js/require.js",
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": true
+  }
+]
