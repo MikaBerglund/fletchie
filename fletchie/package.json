@@ -11,7 +11,11 @@
     "url": "https://github.com/MikaBerglund/fletchie/issues"
   },
   "homepage": "https://github.com/MikaBerglund/fletchie#readme",
-  "dependencies": {
-    "requirejs": "^2.3.3"
+  "devDependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "requirejs": "^2.3.3",
+    "@types/react": "^15.0.0",
+    "@types/react-dom": "^15.0.0"
   }
 }
