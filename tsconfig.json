@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./wwwroot/js/build/",
+    "module": "amd",
+    "moduleResolution": "node",
+    "declaration": true,
+    "declarationDir": "./wwwroot/js/build/typings/",
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "include": [
+    "./scripts/**/*.ts",
+    "./scripts/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "compileOnSave": true
+}
