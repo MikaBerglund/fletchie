@@ -1,0 +1,14 @@
+{
+  "name": "fletchie",
+  "version": "0.1.0",
+  "description": "A fluent interface wrapper around the JavaScript fetch() function with support for OData queries.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaBerglund/fletchie.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaBerglund/fletchie/issues"
+  },
+  "homepage": "https://github.com/MikaBerglund/fletchie#readme"
+}
